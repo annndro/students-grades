@@ -1,0 +1,17 @@
+body{
+	color:#800000;
+	background-image:url("Images/susan-q-yin-2JIvboGLeho-unsplash.jpg");
+	background-size: cover; 
+}
+.container div{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+}
+.header{
+	background:#B8B8B8;
+	opacity:0.6;
+}
